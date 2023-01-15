@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+a{
+    margin:0;
+    font-size: 1px;
+    text-align: left;
+}
+div{
+    visibility: hidden;
+}
